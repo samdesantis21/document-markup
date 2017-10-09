@@ -1,29 +1,4 @@
-[Project Gutenberg](http://www.gutenberg.org/)
-
-Overview Page: <http://www.gutenberg.org/ebooks/4265> 
-
-Text Source: <http://www.gutenberg.org/cache/epub/4265/pg4265.txt>
-
-<!-- ##############################################
-First line:
-Project Gutenberg's Heroes Every Child Should Know, by Hamilton Wright Mabie
-
-Copyright laws are changing all over the world. Be sure to check the
-copyright laws for your country before distributing this or any other
-Project Gutenberg file.
-
-LOTS of TEXT HERE..... Delete all of this from the First Line until the
-Title
-
-*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.10/04/01*END*
-
-This etext was produced by Charles Franks
-and the Online Distributed Proofreading Team
-
- ################################################# -->
-
-
-HEROES EVERY CHILD SHOULD KNOW
+# HEROES EVERY CHILD SHOULD KNOW
 
 TALES FOR YOUNG PEOPLE OF THE WORLD'S HEROES IN ALL AGES
 
